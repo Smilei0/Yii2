@@ -1,0 +1,4 @@
+Felhasználónév:	Jelszó:
+Admin		0000
+Student		0000
+
